@@ -1,6 +1,7 @@
 #write your code here
 
 def countdown(int)
+  stdout = 
   while int >= 0
     puts "#{int} SECOND(S)!"
     int -= 1
